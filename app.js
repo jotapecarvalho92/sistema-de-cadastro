@@ -1,3 +1,3 @@
 console.log("Rodando o sistema de gerenciamento de jogos")
 console.log("Buscando por titulos novos")
-console.log ("Enviando para o GitHub")
+console.log ("adicionando um console log")
